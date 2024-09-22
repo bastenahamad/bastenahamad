@@ -7,7 +7,7 @@
 [![Mail Badge](https://img.shields.io/badge/-bastenahamad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bastenahamad@gmail.com) 
 
 ## 🧑🏻‍💻 Coding Profiles:
-[![Codeforces](https://badges.joonhyung.xyz/codeforces/bastenahamad.svg)](https://codeforces.com/profile/bastenahamad)
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/bastenahamad.svg)](https://codeforces.com/profile/beeten)
 [![Badge](https://cp-logo.vercel.app/codechef/basten?logo=true)](https://www.codechef.com/users/basten)
 [![Badge](https://cp-logo.vercel.app/atcoder/bastenahamad?logo=true)](https://atcoder.jp/users/bastenahamad)
 [![Badge](https://cp-logo.vercel.app/leetcode/basten2002?logo=true)](https://leetcode.com/basten2002/)
