@@ -8,7 +8,7 @@
 
 ## 🧑🏻‍💻 Coding Profiles:
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/beeten.svg)](https://codeforces.com/profile/beeten)
-[![LeetCode user basten2002](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbasten2002&logo=leetcode&logoColor=yellow)](https://leetcode.com/basten2002/)
+[![LeetCode user basten2002](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=grey&color=%23ffa116&label=Leetcode&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbasten2002&logo=leetcode&logoColor=yellow)](https://leetcode.com/basten2002/)
 [![Badge](https://cp-logo.vercel.app/codechef/basten?logo=true)](https://www.codechef.com/users/basten)
 [![Badge](https://cp-logo.vercel.app/atcoder/bastenahamad?logo=true)](https://atcoder.jp/users/bastenahamad)
 
