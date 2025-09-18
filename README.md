@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m a Student @Chandigarh University<br>🌱 I’m currently learning advanced development and algorithms<br>💬 Ask me about algorithms, graphs, react.
+<!-- # 💫 About Me:
+🔭 I’m a Student @Chandigarh University<br>🌱 I’m currently learning advanced development and algorithms<br>💬 Ask me about algorithms, graphs, react. -->
 
 
 ## 🌐 Connect With Me:
