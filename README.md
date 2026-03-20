@@ -1,11 +1,6 @@
 <!-- # 💫 About Me:
 🔭 I’m a Student @Chandigarh University<br>🌱 I’m currently learning advanced development and algorithms<br>💬 Ask me about algorithms, graphs, react. -->
 
-
-## 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/basten_ahamad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bastenahamad) 
-[![Mail Badge](https://img.shields.io/badge/-bastenahamad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bastenahamad@gmail.com) 
-
 ## 🧑🏻‍💻 Coding Profiles:
 [![LeetCode user basten2002](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=grey&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbasten2002&logo=leetcode&logoColor=yellow)](https://leetcode.com/basten2002/)
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/bastenahamad.svg)](https://codeforces.com/profile/bastenahamad)
